@@ -71,3 +71,15 @@
 span {
   margin-left: 16px;
 }
+
+@media screen and (min-width: 300px) and (max-width: 900px) {
+  .menu-bars {
+    margin-left: 1rem;
+    font-size: 2rem;
+    background: none;
+  }
+  ol,
+  ul {
+    padding-left: 0rem;
+  }
+}
