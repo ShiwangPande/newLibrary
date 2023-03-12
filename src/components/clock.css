@@ -12,16 +12,7 @@ body {
   margin: auto;
 }
 
-.logo1 {
-  width: 350px;
-  position: absolute;
-  left: -163px;
-  top: 15px;
-  cursor: pointer;
-}
-.logo1:hover {
-  transform: scale(1.2);
-}
+
 
 @keyframes spinleft {
   from {
@@ -729,21 +720,9 @@ body {
   .swiper-slide img {
     width: 350px;
   }
-  .logo1 {
-    width: 350px;
-    position: absolute;
-    left: 20px;
-    top: 8px;
-  }
 }
 @media (max-width: 480px) {
   .swiper-slide img {
     width: 350px;
-  }
-  .logo1 {
-    width: 350px;
-    position: absolute;
-    left: 20px;
-    top: 8px;
   }
 }
