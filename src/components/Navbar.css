@@ -74,7 +74,7 @@ span {
 .logo1 {
   width: 70px;
   position: absolute;
-  left: 315px;
+  right: 15px;
   top: 15px;
   cursor: pointer;
 }
@@ -85,7 +85,7 @@ span {
   .logo1 {
     width: 65px;
     position: absolute;
-    left: 315px;
+    right: 15px;
     top: 15px;
   }
   .menu-bars {
